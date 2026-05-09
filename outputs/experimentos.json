@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.8",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -12,12 +12,12 @@
       "n_regras": 204,
       "lift_medio": 44.1027,
       "confianca_media": 0.865,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.75",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -29,12 +29,12 @@
       "n_regras": 323,
       "lift_medio": 35.9699,
       "confianca_media": 0.8311,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.7",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -46,12 +46,12 @@
       "n_regras": 466,
       "lift_medio": 29.2277,
       "confianca_media": 0.7985,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.65",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -63,12 +63,12 @@
       "n_regras": 656,
       "lift_medio": 24.9634,
       "confianca_media": 0.7625,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.6",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -80,12 +80,12 @@
       "n_regras": 875,
       "lift_medio": 22.1082,
       "confianca_media": 0.7284,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.55",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -97,12 +97,12 @@
       "n_regras": 1082,
       "lift_medio": 20.3898,
       "confianca_media": 0.6988,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.5",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -114,12 +114,12 @@
       "n_regras": 1337,
       "lift_medio": 19.0333,
       "confianca_media": 0.6656,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.45",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -131,12 +131,12 @@
       "n_regras": 1607,
       "lift_medio": 17.873,
       "confianca_media": 0.6334,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.4",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -148,12 +148,12 @@
       "n_regras": 1901,
       "lift_medio": 16.7785,
       "confianca_media": 0.601,
-      "tempo_itemsets_segundos": 9.84
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   },
   {
-    "timestamp": "2026-05-09T18:00:21",
+    "timestamp": "2026-05-09T19:01:47",
     "nome": "fpgrowth_sup0.01_conf0.35",
     "algoritmo": "FP-Growth",
     "parametros": {
@@ -165,517 +165,7 @@
       "n_regras": 2263,
       "lift_medio": 15.6935,
       "confianca_media": 0.5647,
-      "tempo_itemsets_segundos": 9.84
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:40",
-    "nome": "fpgrowth_sup0.01_conf0.8",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.8
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 204,
-      "lift_medio": 44.1027,
-      "confianca_media": 0.865,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.75",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.75
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 323,
-      "lift_medio": 35.9699,
-      "confianca_media": 0.8311,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.7",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.7
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 466,
-      "lift_medio": 29.2277,
-      "confianca_media": 0.7985,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.65",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.65
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 656,
-      "lift_medio": 24.9634,
-      "confianca_media": 0.7625,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.6",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.6
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 875,
-      "lift_medio": 22.1082,
-      "confianca_media": 0.7284,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.55",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.55
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1082,
-      "lift_medio": 20.3898,
-      "confianca_media": 0.6988,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.5",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.5
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1337,
-      "lift_medio": 19.0333,
-      "confianca_media": 0.6656,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.45",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.45
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1607,
-      "lift_medio": 17.873,
-      "confianca_media": 0.6334,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.4",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.4
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1901,
-      "lift_medio": 16.7785,
-      "confianca_media": 0.601,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:12:41",
-    "nome": "fpgrowth_sup0.01_conf0.35",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.35
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 2263,
-      "lift_medio": 15.6935,
-      "confianca_media": 0.5647,
-      "tempo_itemsets_segundos": 7.71
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:32",
-    "nome": "fpgrowth_sup0.01_conf0.8",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.8
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 204,
-      "lift_medio": 44.1027,
-      "confianca_media": 0.865,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:32",
-    "nome": "fpgrowth_sup0.01_conf0.75",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.75
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 323,
-      "lift_medio": 35.9699,
-      "confianca_media": 0.8311,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:32",
-    "nome": "fpgrowth_sup0.01_conf0.7",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.7
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 466,
-      "lift_medio": 29.2277,
-      "confianca_media": 0.7985,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:29",
-    "nome": "fpgrowth_sup0.01_conf0.65",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.65
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 656,
-      "lift_medio": 24.9634,
-      "confianca_media": 0.7625,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:30",
-    "nome": "fpgrowth_sup0.01_conf0.6",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.6
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 875,
-      "lift_medio": 22.1082,
-      "confianca_media": 0.7284,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:30",
-    "nome": "fpgrowth_sup0.01_conf0.55",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.55
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1082,
-      "lift_medio": 20.3898,
-      "confianca_media": 0.6988,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:30",
-    "nome": "fpgrowth_sup0.01_conf0.5",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.5
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1337,
-      "lift_medio": 19.0333,
-      "confianca_media": 0.6656,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:30",
-    "nome": "fpgrowth_sup0.01_conf0.45",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.45
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1607,
-      "lift_medio": 17.873,
-      "confianca_media": 0.6334,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:30",
-    "nome": "fpgrowth_sup0.01_conf0.4",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.4
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1901,
-      "lift_medio": 16.7785,
-      "confianca_media": 0.601,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:15:30",
-    "nome": "fpgrowth_sup0.01_conf0.35",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.35
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 2263,
-      "lift_medio": 15.6935,
-      "confianca_media": 0.5647,
-      "tempo_itemsets_segundos": 8.5
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.8",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.8
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 204,
-      "lift_medio": 44.1027,
-      "confianca_media": 0.865,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.75",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.75
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 323,
-      "lift_medio": 35.9699,
-      "confianca_media": 0.8311,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.7",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.7
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 466,
-      "lift_medio": 29.2277,
-      "confianca_media": 0.7985,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.65",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.65
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 656,
-      "lift_medio": 24.9634,
-      "confianca_media": 0.7625,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.6",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.6
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 875,
-      "lift_medio": 22.1082,
-      "confianca_media": 0.7284,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.55",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.55
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1082,
-      "lift_medio": 20.3898,
-      "confianca_media": 0.6988,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:06",
-    "nome": "fpgrowth_sup0.01_conf0.5",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.5
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1337,
-      "lift_medio": 19.0333,
-      "confianca_media": 0.6656,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:07",
-    "nome": "fpgrowth_sup0.01_conf0.45",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.45
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1607,
-      "lift_medio": 17.873,
-      "confianca_media": 0.6334,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:07",
-    "nome": "fpgrowth_sup0.01_conf0.4",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.4
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 1901,
-      "lift_medio": 16.7785,
-      "confianca_media": 0.601,
-      "tempo_itemsets_segundos": 8.16
-    },
-    "observacoes": "Iteração da busca iterativa por confiança ideal"
-  },
-  {
-    "timestamp": "2026-05-09T18:31:07",
-    "nome": "fpgrowth_sup0.01_conf0.35",
-    "algoritmo": "FP-Growth",
-    "parametros": {
-      "min_support": 0.01,
-      "min_confidence": 0.35
-    },
-    "metricas": {
-      "n_itemsets": 2405,
-      "n_regras": 2263,
-      "lift_medio": 15.6935,
-      "confianca_media": 0.5647,
-      "tempo_itemsets_segundos": 8.16
+      "tempo_itemsets_segundos": 9.16
     },
     "observacoes": "Iteração da busca iterativa por confiança ideal"
   }
